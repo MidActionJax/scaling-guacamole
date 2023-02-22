@@ -49,14 +49,14 @@ h1{
 body{
     font-family: monospace;
     background-color: rgb(10, 12, 16);
-    height: 1279px;
+    height: 1160px;
     border: solid rgb(39, 43, 51);
 }
 
 footer{
     background-color: rgb(39, 43, 51);
     height: 100px;
-    margin-top: 403px;
+    margin-top: 290px;
     color: rgb(240, 243, 246);
 }
 
@@ -119,4 +119,8 @@ h2{
     text-align: center;
     color: rgb(240, 243, 246);
     font-size: 16px;
+}
+
+#outputToHtml{
+    color: rgb(240, 243, 246);
 }

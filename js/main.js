@@ -5,3 +5,7 @@
 */
 
 var Hello = "Hello World!"
+
+// document.getElementById("outputToHtml").textContent = "Hello World!"
+
+document.getElementById("outputToHtml").textContent = "Hello World!"
