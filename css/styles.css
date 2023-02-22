@@ -3,3 +3,120 @@
     13 ~ 999
     2/22/2023
 */
+
+/* RESET */
+html, body, div, span,
+h1, h2, h3, h4, h5, h6, p,
+a, b, u, i, center,
+dl, dt, dd, ol,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, details, footer, header, nav{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    box-sizing: border-box;
+}
+article, aside, footer, header, nav{
+  display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* End reset styles */
+
+header{
+    background-color: rgb(39, 43, 51);
+    color: rgb(240, 243, 246);
+    height: 100px;
+    text-align: center;
+}
+
+h1{
+    padding-top: 30px;
+    font-size: 32px;
+}
+
+body{
+    font-family: monospace;
+    background-color: rgb(10, 12, 16);
+    height: 1279px;
+    border: solid rgb(39, 43, 51);
+}
+
+footer{
+    background-color: rgb(39, 43, 51);
+    height: 100px;
+    margin-top: 403px;
+    color: rgb(240, 243, 246);
+}
+
+span{
+    float: left;
+    margin-top: 85px;
+}
+
+.FooterSpan{
+    float: none;
+    font-size: 16px;
+    /* margin-left: 450px; */
+}
+
+.spandiv{
+    text-align: center;
+}
+
+footer p{
+    float: right;
+    margin-top: 70px;
+}
+
+button{
+    background-color: green;
+    font-family: monospace;
+    font-size: 32px;
+    width: 300px;
+    height: 300px;
+    margin-top: 32px;
+}
+
+.Buttondiv{
+    text-align: center;
+}
+
+button:focus{
+    background-color: rgb(191, 0, 0);
+}
+
+button:focus:hover{
+    background-color: rgb(147, 0, 0);
+}
+
+button:hover{
+    background-color: rgb(1, 86, 1);
+    
+}
+
+section{
+    border: solid rgb(39, 43, 51);
+    height: 300px;
+    /* margin: 128px; */
+    margin-top: 32px;
+    margin-left: 128px;
+    margin-right: 128px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(240, 243, 246);
+    font-size: 16px;
+}
