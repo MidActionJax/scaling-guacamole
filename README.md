@@ -9,3 +9,6 @@ Project Goals:<br>
 ----Python code gets text file information<br>
 ----Javascript retrieves python information<br>
 ----Javascript sends information back to HTML<br>
+
+https://MidActionJax.github.io/scaling-guacamole/<br>
+https://github.com/MidActionJax/scaling-guacamole
