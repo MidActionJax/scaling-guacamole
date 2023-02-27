@@ -7,3 +7,7 @@ Hello = "Hello World!"
 
 print(Hello)
 
+txtFile = open("info.txt", "w")
+
+txtFile.write(Hello)
+txtFile.close()
